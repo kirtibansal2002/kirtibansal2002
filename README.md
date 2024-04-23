@@ -37,7 +37,7 @@ I've discovered that there's something truly powerful about diving into data, bu
 <a href="https://mui.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
 </div>  
 
-### 💬 Connect with me!
+### Contact me! 💬
 <div align="left">
 <a href="https://github.com/kirtibansal2002" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
