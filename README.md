@@ -1,5 +1,3 @@
-### Hi, I'm Kirti 👋👩🏽‍💻
-
 <img src="https://github.com/kirtibansal2002/kirtibansal2002/blob/main/header.png">
 
 I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student with a specialization in Artifical Intelligence at the University of Waterloo! I'm studying software, and data analytics, information systems, operations and supply chain management, and organizational behaviour!
