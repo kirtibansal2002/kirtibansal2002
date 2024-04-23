@@ -1,5 +1,25 @@
 <img src="https://github.com/kirtibansal2002/kirtibansal2002/blob/main/Image.jpeg">
 
+<div style="background-color: #3498db; padding: 10px; border-radius: 5px;">
+  <p style="color: white;">Hi, I'm <span id="typed-text"></span></p>
+</div>
+
+<script>
+  const typedText = "Kirti Bansal";
+  const delay = 100; // in milliseconds
+  let charIndex = 0;
+
+  function type() {
+    if (charIndex < typedText.length) {
+      document.getElementById("typed-text").innerHTML += typedText.charAt(charIndex);
+      charIndex++;
+      setTimeout(type, delay);
+    }
+  }
+
+  type();
+</script>
+
 I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student with a specialization in Artificial Intelligence at the University of Waterloo! I'm studying software, data analytics, machine learning, information systems, operations, and supply chain management!
 
 ### Passionate about Data Science and Machine Learning 🌟🚀
