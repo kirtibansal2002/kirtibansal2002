@@ -14,4 +14,4 @@ I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/pro
 
 💬 Connect with me!
 
-# Skills
+### Skills
