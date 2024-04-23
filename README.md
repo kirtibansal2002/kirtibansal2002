@@ -47,14 +47,3 @@ I've discovered that there's something truly powerful about diving into data, bu
 </a>  
 </div>  
 
-### Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kirtibansal2002&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtibansal2002&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
