@@ -47,7 +47,3 @@ I've discovered that there's something truly powerful about diving into data, bu
 </a>
 
 
-### Skills
-
-</div>  
-
