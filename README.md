@@ -4,15 +4,12 @@
 
 I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student with a specialization in Aritifical Intelligence at the University of Waterloo! I'm studying software, and data analytics, information systems, operations and supply chain management, and organizational behaviour!
 
-⚡ 
 
-⏩ Incoming Data Engineer @ [Blackberry](https://www.blackberry.com/us/en)
+- ⏩ Incoming Data Engineer @ [Blackberry](https://www.blackberry.com/us/en)
 
-👩‍💻 Previous Data Science Intern @ [MTO](https://www.ontario.ca/page/ministry-transportation), Data Risk Analyst @ [Questrade](https://www.questrade.com/?s_cid=qfgtq091_cpc_google&gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVJP80fTKff6SRXBueOKP6MF8euDMn0uJLn6nOJyodC7CWLUjQaUbwBoCCXYQAvD_BwE&gclsrc=aw.ds) and Technical PM Intern @ [Finastra](https://www.finastra.com)
+- 👩‍💻 Previous Data Science Intern @ [MTO](https://www.ontario.ca/page/ministry-transportation), Data Risk Analyst @ [Questrade](https://www.questrade.com/?s_cid=qfgtq091_cpc_google&gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVJP80fTKff6SRXBueOKP6MF8euDMn0uJLn6nOJyodC7CWLUjQaUbwBoCCXYQAvD_BwE&gclsrc=aw.ds) and Technical PM Intern @ [Finastra](https://www.finastra.com)
 
-🌎 Currently based in Waterloo, Ontario
-
-💬 Connect with me!
+- 🌎 Currently based in Waterloo, Ontario
 
 ### Skills
 <div align="left">  
@@ -34,3 +31,6 @@ I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/pro
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a>
 <a href="https://mui.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
 </div>  
+
+### 💬 Connect with me!
+
