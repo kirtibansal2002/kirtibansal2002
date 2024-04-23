@@ -45,5 +45,5 @@ I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/pro
 
 <div>
 ![Kirti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirtibansal2002&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtbansal2002)](https://github.com/kirtibansal2002/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtbansal2002)](https://github.com/kirtibansal2002/github-readme-stats)
 </div>
