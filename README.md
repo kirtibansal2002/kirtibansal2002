@@ -26,7 +26,7 @@ def dream_job():
 
 - 🌎 Currently based in Waterloo, Ontario
 
-### Skills
+### Technical Skills
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>  
