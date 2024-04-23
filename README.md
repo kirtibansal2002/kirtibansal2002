@@ -4,6 +4,13 @@
 
 I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student with a specialization in Aritifical Intelligence at the University of Waterloo! I'm studying software, and data analytics, information systems, operations and supply chain management, and organizational behaviour!
 
+### 🌟 Passionate about Data Science and Machine Learning 🚀
+
+I'm absolutely thrilled about the world of Data Science and Machine Learning! 🌐✨
+
+I've discovered that there's something truly powerful about diving into data, building models, and uncovering insights that can make a real impact. 💡 Whether it's predicting customer behavior, optimizing processes, or tackling societal challenges!
+
+### Experiences 👔
 
 - ⏩ Incoming Data Engineer @ [Blackberry](https://www.blackberry.com/us/en)
 
