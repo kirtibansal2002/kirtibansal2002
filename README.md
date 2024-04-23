@@ -2,7 +2,7 @@
 
 I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student with a specialization in Artifical Intelligence at the University of Waterloo! I'm studying software, and data analytics, information systems, operations and supply chain management, and organizational behaviour!
 
-### 🌟 Passionate about Data Science and Machine Learning 🚀
+### Passionate about Data Science and Machine Learning 🌟🚀
 
 I'm absolutely thrilled about the world of Data Science and Machine Learning! 🌐✨
 
