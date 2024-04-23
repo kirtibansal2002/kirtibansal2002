@@ -8,6 +8,16 @@ I'm absolutely thrilled about the world of Data Science and Machine Learning! �
 
 I've discovered that there's something truly powerful about diving into data, building models, and uncovering insights that can make a real impact. 💡 Whether it's predicting customer behavior, optimizing processes, or tackling societal challenges!
 
+```python
+import my_skills
+
+def dream_job():
+    roles = ["Data Wizard 🧙‍♂️", "Sherlock of Analytics 🔍", "Jedi of ML 🤖", "Product Enchanter ✨"]
+    for role in roles:
+        if my_skills.get(role.split()[0].lower()):
+            print(f"Crafting my dream: {role}")
+```
+
 ### Experiences 👔
 
 - ⏩ Incoming Data Engineer @ [Blackberry](https://www.blackberry.com/us/en)
