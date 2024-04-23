@@ -1,6 +1,6 @@
 <img src="https://github.com/kirtibansal2002/kirtibansal2002/blob/main/Image.jpeg">
 
-I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student with a specialization in Artificial Intelligence at the University of Waterloo! I'm studying software, data analytics, machine learning, information systems, operations, supply chain management, and organizational behaviour!
+I'm a 3rd-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student with a specialization in Artificial Intelligence at the University of Waterloo! I'm studying software, data analytics, machine learning, information systems, operations, and supply chain management!
 
 ### Passionate about Data Science and Machine Learning 🌟🚀
 
