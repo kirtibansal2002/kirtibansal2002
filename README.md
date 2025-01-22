@@ -20,7 +20,7 @@ def dream_job():
 
 ### Experiences 👔
 
-- ⏩ Incoming Data Engineer @ [Blackberry](https://www.blackberry.com/us/en)
+- ⏩ Previous Data Engineer @ [Blackberry](https://www.blackberry.com/us/en)
 
 - 👩‍💻 Previous Data Science Intern @ [MTO](https://www.ontario.ca/page/ministry-transportation), Data Risk Analyst @ [Questrade](https://www.questrade.com/?s_cid=qfgtq091_cpc_google&gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVJP80fTKff6SRXBueOKP6MF8euDMn0uJLn6nOJyodC7CWLUjQaUbwBoCCXYQAvD_BwE&gclsrc=aw.ds) and Technical PM Intern @ [Finastra](https://www.finastra.com)
 
