@@ -27,27 +27,11 @@ def dream_job():
 - 🌎 Currently based in Waterloo, Ontario
 
 ### Technical Skills
-<table>
-  <tr>
-    <td><a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" alt="Python" /></a></td>
-    <td><a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40" alt="Java" /></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" alt="MySQL" /></a></td>
-    <td><a href="https://www.r-project.org/"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" height="40" alt="R" /></a></td>
-    <td><a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" /></a></td>
-    <td><a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" /></a></td>
-    <td><a href="https://www.terraform.io/"><img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="40" alt="Terraform" /></a></td>
-    <td><a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" /></a></td>
-    <td><a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" alt="Figma" /></a></td>
-    <td><a href="https://powerbi.microsoft.com/en-us/"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="40" alt="Power BI" /></a></td>
-    <td><a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" /></a></td>
-    <td><a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3" /></a></td>
-    <td><a href="https://redux.js.org/"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="40" alt="Redux" /></a></td>
-    <td><a href="https://azure.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="40" alt="Azure" /></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" /></a></td>
-    <td><a href="https://firebase.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="40" alt="Firebase" /></a></td>
-    <td><a href="https://mui.com/"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="40" alt="Material UI" /></a></td>
-  </tr>
-</table>
+### Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,redux,bootstrap,mui,html,css,nodejs,mysql,mongodb,oracle,docker,gcp,figma&perline=30" />
+</p>
+
 
 
 
