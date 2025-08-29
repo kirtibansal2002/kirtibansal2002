@@ -27,25 +27,23 @@ def dream_job():
 - 🌎 Currently based in Waterloo, Ontario
 
 ### Technical Skills
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="34"></a>
-  <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="34"></a>
-  <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="34"></a>
-  <a href="https://www.r-project.org/"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="34"></a>
-  <a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="34"></a>
-  <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="34"></a>
-  <a href="https://www.terraform.io/"><img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="34"></a>
-  <a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="34"></a>
-  <a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="34"></a>
-  <a href="https://powerbi.microsoft.com/en-us/"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="34"></a>
-  <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="34"></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="34"></a>
-  <a href="https://redux.js.org/"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="34"></a>
-  <a href="https://azure.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="34"></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="34"></a>
-  <a href="https://firebase.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="34"></a>
-  <a href="https://mui.com/"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="34"></a>
-</p>
+[<img src="https://profilinator.rishav.dev/skills-assets/java-original.svg" height="28" alt="Java" />](https://www.java.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="28" alt="Python" />](https://www.python.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="28" alt="JavaScript" />](https://www.javascript.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="28" alt="TypeScript" />](https://www.typescriptlang.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="28" alt="React" />](https://reactjs.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="28" alt="Redux" />](https://redux.js.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="28" alt="Bootstrap" />](https://getbootstrap.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="28" alt="MUI" />](https://mui.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="28" alt="HTML5" />](https://developer.mozilla.org/docs/Web/HTML)
+[<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="28" alt="CSS3" />](https://developer.mozilla.org/docs/Web/CSS)
+[<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="28" alt="Node.js" />](https://nodejs.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="28" alt="MySQL" />](https://www.mysql.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="28" alt="MongoDB" />](https://www.mongodb.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="28" alt="Oracle" />](https://www.oracle.com/database/)
+[<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="28" alt="Docker" />](https://www.docker.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="28" alt="GCP" />](https://cloud.google.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="28" alt="Figma" />](https://www.figma.com/)
 
 
 
